@@ -1,0 +1,25 @@
+.card-container {
+    border: 5px solid rgb(250, 246, 248);
+    border-radius: 4px;
+    width: 500px;
+    height: 600px;
+    background-color: #ccc;
+    margin: 15px;
+    padding: 10px;
+    align-items: center;
+}
+.div-one{
+    height: 57vh;
+    width: 183vh;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+#c{
+    height:300px;
+    width: 450px;
+}
+.text{
+    text-align: center;
+}

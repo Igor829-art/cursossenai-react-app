@@ -1,0 +1,11 @@
+.home-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    height: 640px;
+    width: 1535px;
+    background-color: #2884b2;
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
